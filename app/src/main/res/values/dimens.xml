@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="elevationMD">5dp</dimen>
+    <dimen name="dividerSize">1dp</dimen>4dp
+    <dimen name="cornermaduious_material">4dp</dimen>
+    <dimen name="square_image_dimention">100dp</dimen>
+    <dimen name="padding_relative_layout">5dp</dimen>
+</resources>

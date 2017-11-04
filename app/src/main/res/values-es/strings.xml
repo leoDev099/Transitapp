@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Transitapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- in case more currency support add here -->
+    <string name="Euro_declared_currency">EUR</string>
+
+    <string name="home_toolbar_title">Rutas</string>
+
+    <!-- Titles of the routes list -->
+    <string name="routes_type_public_transport">Transporte público</string>
+    <string name="routes_type_bike_sharing">Bicicleta compartida</string>
+    <string name="routes_type_car_sharing">Carro copartido</string>
+    <string name="routes_type_private_bike">Bicicleta privada</string>
+    <string name="routes_type_taxi">Taxi</string>
+
+    <!-- Titles of start and end Markers -->
+    <string name="start_marker">Inicio</string>
+    <string name="finish_marker">Fin</string>
+
+</resources>
