@@ -14,7 +14,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class AppHandler extends Application {
 
     public static final String SERVER_URL = "https://raw.githubusercontent.com/";
-    public static final String TOP_FREE_URL = "door2door-io/transit-app-task/master/";
+    public static final String TOP_FREE_URL = "leoDev099/Transitapp/master/";
 
     private static Context context;
     private static AppHandler instance;
